@@ -1,0 +1,8 @@
+{
+  "name": "Meridian Ledger — Q4 Operating Model",
+  "description": "Enterprise quarterly variance analysis, expense ledger, and financial modeling workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
